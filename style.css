@@ -474,6 +474,10 @@ a {
         padding: 0;
     }
 
+    .inline-accent {
+        color: var(--text);
+    }
+
     .page {
         display: block !important;
         grid-template-columns: none !important;
